@@ -26,6 +26,7 @@ function App() {
           }}
         >
 <<<<<<< HEAD
+<<<<<<< HEAD
           Q-Time
         </Navbar.Brand>
       </Navbar>
@@ -46,6 +47,10 @@ function App() {
       </Router>
 =======
           Learn Frontend
+=======
+          Learn Frontend
+          
+>>>>>>> dfd
         </a>
       </header>
 >>>>>>> first
