@@ -25,6 +25,7 @@ function App() {
             fontFamly: "Sofia",
           }}
         >
+<<<<<<< HEAD
           Q-Time
         </Navbar.Brand>
       </Navbar>
@@ -43,6 +44,11 @@ function App() {
           </Switch>
         </Fragment>
       </Router>
+=======
+          Learn Frontend
+        </a>
+      </header>
+>>>>>>> first
     </div>
   );
 }
