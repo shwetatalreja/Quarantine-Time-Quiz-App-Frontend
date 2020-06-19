@@ -45,10 +45,6 @@ function App() {
           </Switch>
         </Fragment>
       </Router>
-=======
-          Learn Frontend
-=======
-          Learn Frontend
           
 >>>>>>> dfd
         </a>
