@@ -40,7 +40,7 @@ function App() {
               component={() => <Questionnaire value=""></Questionnaire>}
             />
             {/* <Route exact path="/product/Men" component={()=><Product value="Men"></Product>}/> */}
-
+ss
             <Route path="/" component={Homepage} />
           </Switch>
         </Fragment>
